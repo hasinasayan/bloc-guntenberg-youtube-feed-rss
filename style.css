@@ -1,0 +1,17 @@
+.title-youtube{color:#c7180c;}
+.modal-backdrop{
+    z-index: 0 !important;
+}
+.youtube-card:hover{
+    box-shadow: 0 0 10px 10px rgb(0 0 0 / 15%);
+}
+.youtube-card{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.text-dark{
+    padding-left: 15px;
+}
+.img-fluid{
+    margin-left: 3px;
+}
